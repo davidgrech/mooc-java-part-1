@@ -9,7 +9,6 @@ public class Positivity {
         // Write your program here
         System.out.println("Give a number:");
 
-        // Write your program here
         int num = Integer.valueOf(scan.nextLine());
         
         if(num>0){
