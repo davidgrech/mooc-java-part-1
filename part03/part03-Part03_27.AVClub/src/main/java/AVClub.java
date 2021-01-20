@@ -11,7 +11,6 @@ public class AVClub {
         while(!username.equals("")){
         
             String[] splitSentence = username.split(" ");
-
             
             for(String word : splitSentence){
                 
